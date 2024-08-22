@@ -1,0 +1,29 @@
+/* src/pages/StudentDashboard.css */
+.student-dashboard {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .student-dashboard h1 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .area-of-interest {
+    margin-bottom: 20px;
+  }
+  
+  .area-of-interest label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+  }
+  
+  .area-of-interest input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }

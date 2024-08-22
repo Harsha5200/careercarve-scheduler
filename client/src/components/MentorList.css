@@ -1,0 +1,31 @@
+/* src/components/MentorList.css */
+.mentor-list {
+    margin-top: 20px;
+  }
+  
+  .mentor-list h2 {
+    margin-bottom: 15px;
+  }
+  
+  .mentor-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .mentor-list li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .mentor-list button {
+    background-color: #27ae60;
+  }
+  
+  .mentor-list button:hover {
+    background-color: #2ecc71;
+  }

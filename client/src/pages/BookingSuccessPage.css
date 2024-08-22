@@ -1,0 +1,19 @@
+/* src/pages/BookingSuccessPage.css */
+.booking-success-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  .booking-success-page h2 {
+    color: #27ae60;
+    margin-bottom: 20px;
+  }
+  
+  .booking-success-page p {
+    margin-bottom: 10px;
+  }
